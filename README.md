@@ -32,7 +32,7 @@ and adding the MotionPlanning display to the rviz inside the GUI.
 
 You can set the starting and end positions and then click the 'plan and execute button' and the robotic arm will move to the end position both in Rviz and in the Gazebo.
 
-### Control with Servis
+### Control with Service
 
 You can set the individual joint position by calling a service. 
 
